@@ -1,0 +1,20 @@
+CD location   : I:
+CD driver name: WIN32
+   access mode: ioctl
+
+__________________________________
+
+CD-ROM Track List (1 - 1)
+  #: MSF       LSN    Type   Green? Copy?
+  1: 00:02:00  000000 data   false  no   
+170: 17:01:25  076450 leadout (171 MB raw, 149 MB formatted)
+__________________________________
+CD Analysis Report
+CD-ROM with both Macintosh HFS and ISO 9660 filesystem
+ISO 9660: 76298 blocks, label `SPELEN_MET_KIKKER               '
+Application: TOAST ISO 9660 BUILDER COPYRIGHT (C) 1997 ADAPTEC, INC. - HAVE A NICE DAY
+Preparer   : 
+Publisher  : 
+System     : APPLE COMPUTER, INC., TYPE: 0002
+Volume     : SPELEN_MET_KIKKER
+Volume Set : NOT_SET

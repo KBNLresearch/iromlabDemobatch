@@ -1,0 +1,205 @@
+2017-05-09 12:54:54,656 - INFO - batchFolder set to H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a
+2017-05-09 12:54:55,311 - INFO - *** Initialising batch ***
+2017-05-09 12:54:56,434 - INFO - prebatch command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Pre-Batch\Pre-Batch.exe --drive=I --logfile=C:\Temp\KMGlDbPcODUm.log --passerrorsback=C:\Temp\O4DhH0mX14AL.err
+2017-05-09 12:54:56,434 - INFO - prebatch command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 12:56:28,995 - INFO - ### Job identifier: 27271fd8-34a6-11e7-9b3a-7446a0b42b9a
+2017-05-09 12:56:28,995 - INFO - PPN: 18594650X
+2017-05-09 12:56:28,995 - INFO - Title: Thea Beckman
+2017-05-09 12:56:28,995 - INFO - Volume number: 1
+2017-05-09 12:56:28,995 - INFO - disc directory: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a
+2017-05-09 12:56:28,995 - INFO - *** Loading disc ***
+2017-05-09 12:56:52,227 - INFO - load command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Load\Load.exe --drive=I --rejectifnodisc --logfile=C:\Temp\eLgG6d6LSnxK.log --passerrorsback=C:\Temp\Ep55T5GYIZyv.err
+2017-05-09 12:56:52,227 - INFO - load command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 12:57:07,000 - INFO - *** Running cd-info ***
+2017-05-09 12:57:07,640 - INFO - cd-info command: C:\Users\jkn010\iromlab\tools\libcdio\win64\cd-info.exe -C I: --no-header --no-device-info --no-disc-mode --no-cddb --dvd
+2017-05-09 12:57:07,640 - INFO - cd-info-status: 0
+2017-05-09 12:57:07,640 - INFO - cdExtra: True
+2017-05-09 12:57:07,640 - INFO - containsAudio: True
+2017-05-09 12:57:07,656 - INFO - containsData: True
+2017-05-09 12:57:07,656 - INFO - mixedMode: False
+2017-05-09 12:57:07,656 - INFO - multiSession: True
+2017-05-09 12:57:07,656 - INFO - *** Ripping audio ***
+2017-05-09 13:06:51,499 - INFO - dBpoweramp command: C:\Program Files\dBpoweramp\kb-nl-consolerip.exe --drive=I --log=C:\Temp\TTZXVDjkWCSM.log --path=H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a
+2017-05-09 13:06:51,499 - INFO - dBpoweramp-status: 0
+2017-05-09 13:06:51,515 - INFO - dBpoweramp log:
+Track 1: AccurateRip: Not in database   Secure: Yes   [86185B44]
+Track 2: AccurateRip: Not in database   Secure: Yes   [7D340790]
+Track 3: AccurateRip: Not in database   Secure: Yes   [5FF9FDEB]
+Track 4: AccurateRip: Not in database   Secure: Yes   [EE0450B3]
+Track 5: AccurateRip: Not in database   Secure: Yes   [BC337F6B]
+Track 6: AccurateRip: Not in database   Secure: Yes   [9BF7D68E]
+Track 7: AccurateRip: Not in database   Secure: Yes   [EBC4AB58]
+Track 8: AccurateRip: Not in database   Secure: Yes   [9ABAFD03]
+Track 9: AccurateRip: Not in database   Secure: Yes   [14D2AED8]
+Track 10: AccurateRip: Not in database   Secure: Yes   [42E1A16A]
+Track 11: AccurateRip: Not in database   Secure: Yes (warn)   [93AE0792]
+Track 12: AccurateRip: Not in database   Secure: Yes   [71851A60]
+Track 13: AccurateRip: Not in database   Secure: Yes   [0ACDD4E0]
+Track 14: AccurateRip: Not in database   Secure: Yes   [BBEF6ED8]
+Track 15: AccurateRip: Not in database   Secure: Yes   [6ADFC18A]
+Track 16: AccurateRip: Not in database   Secure: Yes   [BAA23F39]
+Track 17: AccurateRip: Not in database   Secure: Yes   [A8FAFC7E]
+Track 18: AccurateRip: Not in database   Secure: Yes   [8F38F8E7]
+Track 19: AccurateRip: Not in database   Secure: Yes   [39A62C30]
+Track 20: AccurateRip: Not in database   Secure: Yes   [74A0B52D]
+
+2017-05-09 13:06:51,515 - INFO - *** Verifying audio ***
+2017-05-09 13:06:55,165 - INFO - audioHasErrors: False
+2017-05-09 13:06:55,165 - INFO - Output of audio verification:
+2017-05-09 13:06:55,165 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\01.flac
+2017-05-09 13:06:55,165 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\02.flac
+2017-05-09 13:06:55,165 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\03.flac
+2017-05-09 13:06:55,165 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\04.flac
+2017-05-09 13:06:55,165 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\05.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\06.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\07.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\08.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\09.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\10.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\11.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\12.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\13.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\14.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\15.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\16.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\17.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\18.flac
+2017-05-09 13:06:55,181 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\19.flac
+2017-05-09 13:06:55,196 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\20.flac
+2017-05-09 13:06:55,196 - INFO - *** Extracting data session of cdExtra to ISO ***
+2017-05-09 13:07:02,950 - INFO - isobuster command: C:\Program Files (x86)\Smart Projects\IsoBuster\IsoBuster.exe /d:I: /ei:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\disc.iso /et:u /ep:oea /ep:npc /c /m /nosplash /s:2 /l:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\27271fd8-34a6-11e7-9b3a-7446a0b42b9a\isobuster.log
+2017-05-09 13:07:02,950 - INFO - isobuster-status: 0
+2017-05-09 13:07:02,950 - INFO - isobuster-log: 0
+2017-05-09 13:07:02,950 - INFO - volumeIdentifier: ELL2
+2017-05-09 13:07:02,950 - INFO - isolyzerSuccess: True
+2017-05-09 13:07:02,950 - INFO - imageTruncated: False
+2017-05-09 13:07:03,492 - INFO - *** Unloading disc ***
+2017-05-09 13:07:20,831 - INFO - unload command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Unload\Unload.exe --drive=I --logfile=C:\Temp\ncaZ62OgmbWv.log --passerrorsback=C:\Temp\VZlZ33ZLXetj.err
+2017-05-09 13:07:20,831 - INFO - unload command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 13:07:22,859 - INFO - ### Job identifier: 383c78fa-34a6-11e7-926c-7446a0b42b9a
+2017-05-09 13:07:22,859 - INFO - PPN: 18594664X
+2017-05-09 13:07:22,859 - INFO - Title: Marjan Berk
+2017-05-09 13:07:22,859 - INFO - Volume number: 1
+2017-05-09 13:07:22,875 - INFO - disc directory: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a
+2017-05-09 13:07:22,875 - INFO - *** Loading disc ***
+2017-05-09 13:07:46,026 - INFO - load command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Load\Load.exe --drive=I --rejectifnodisc --logfile=C:\Temp\HNmy6mq3Y2Xz.log --passerrorsback=C:\Temp\ooB4jQ4sznxq.err
+2017-05-09 13:07:46,026 - INFO - load command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 13:08:00,830 - INFO - *** Running cd-info ***
+2017-05-09 13:08:01,454 - INFO - cd-info command: C:\Users\jkn010\iromlab\tools\libcdio\win64\cd-info.exe -C I: --no-header --no-device-info --no-disc-mode --no-cddb --dvd
+2017-05-09 13:08:01,454 - INFO - cd-info-status: 0
+2017-05-09 13:08:01,454 - INFO - cdExtra: True
+2017-05-09 13:08:01,454 - INFO - containsAudio: True
+2017-05-09 13:08:01,454 - INFO - containsData: True
+2017-05-09 13:08:01,470 - INFO - mixedMode: False
+2017-05-09 13:08:01,470 - INFO - multiSession: True
+2017-05-09 13:08:01,470 - INFO - *** Ripping audio ***
+2017-05-09 13:17:54,023 - INFO - dBpoweramp command: C:\Program Files\dBpoweramp\kb-nl-consolerip.exe --drive=I --log=C:\Temp\faweiBUYzLJ1.log --path=H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a
+2017-05-09 13:17:54,023 - INFO - dBpoweramp-status: 0
+2017-05-09 13:17:54,023 - INFO - dBpoweramp log:
+Track 1: AccurateRip: Not in database   Secure: Yes   [7B758C6F]
+Track 2: AccurateRip: Not in database   Secure: Yes   [730C46C5]
+Track 3: AccurateRip: Not in database   Secure: Yes   [5BBDC402]
+Track 4: AccurateRip: Not in database   Secure: Yes   [0AA6E2E9]
+Track 5: AccurateRip: Not in database   Secure: Yes   [B8F1B937]
+Track 6: AccurateRip: Not in database   Secure: Yes   [8539A802]
+Track 7: AccurateRip: Not in database   Secure: Yes   [8B89CB7C]
+Track 8: AccurateRip: Not in database   Secure: Yes   [9ABFA597]
+Track 9: AccurateRip: Not in database   Secure: Yes   [0F7C429E]
+Track 10: AccurateRip: Not in database   Secure: Yes   [CF053617]
+Track 11: AccurateRip: Not in database   Secure: Yes   [D46CB0BE]
+Track 12: AccurateRip: Not in database   Secure: Yes   [BF6D1467]
+Track 13: AccurateRip: Not in database   Secure: Yes   [01635028]
+Track 14: AccurateRip: Not in database   Secure: Yes   [417D5A02]
+
+2017-05-09 13:17:54,038 - INFO - *** Verifying audio ***
+2017-05-09 13:17:59,046 - INFO - audioHasErrors: False
+2017-05-09 13:17:59,046 - INFO - Output of audio verification:
+2017-05-09 13:17:59,046 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\01.flac
+2017-05-09 13:17:59,046 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\02.flac
+2017-05-09 13:17:59,046 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\03.flac
+2017-05-09 13:17:59,046 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\04.flac
+2017-05-09 13:17:59,046 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\05.flac
+2017-05-09 13:17:59,046 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\06.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\07.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\08.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\09.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\10.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\11.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\12.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\13.flac
+2017-05-09 13:17:59,061 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\14.flac
+2017-05-09 13:17:59,061 - INFO - *** Extracting data session of cdExtra to ISO ***
+2017-05-09 13:18:12,042 - INFO - isobuster command: C:\Program Files (x86)\Smart Projects\IsoBuster\IsoBuster.exe /d:I: /ei:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\disc.iso /et:u /ep:oea /ep:npc /c /m /nosplash /s:2 /l:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\isobuster.log
+2017-05-09 13:18:12,042 - INFO - isobuster-status: 0
+2017-05-09 13:18:12,042 - INFO - isobuster-log: 0
+2017-05-09 13:18:12,042 - INFO - volumeIdentifier: ELL3
+2017-05-09 13:18:12,042 - INFO - isolyzerSuccess: True
+2017-05-09 13:18:12,042 - INFO - imageTruncated: False
+2017-05-09 13:18:13,123 - INFO - *** Unloading disc ***
+2017-05-09 13:18:29,448 - INFO - unload command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Unload\Unload.exe --drive=I --logfile=C:\Temp\SddHSkk75QkI.log --passerrorsback=C:\Temp\YdDnqYfp8RrG.err
+2017-05-09 13:18:29,448 - INFO - unload command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 13:18:31,460 - INFO - ### Job identifier: 61c3e58a-34a6-11e7-98d9-7446a0b42b9a
+2017-05-09 13:18:31,460 - INFO - PPN: 230370241
+2017-05-09 13:18:31,460 - INFO - Title: Kikker is verliefd
+2017-05-09 13:18:31,460 - INFO - Volume number: 1
+2017-05-09 13:18:31,460 - INFO - disc directory: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\61c3e58a-34a6-11e7-98d9-7446a0b42b9a
+2017-05-09 13:18:31,476 - INFO - *** Loading disc ***
+2017-05-09 13:18:54,533 - INFO - load command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Load\Load.exe --drive=I --rejectifnodisc --logfile=C:\Temp\lAPg3vA8cwfh.log --passerrorsback=C:\Temp\oRBsMbO3BcPP.err
+2017-05-09 13:18:54,533 - INFO - load command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 13:19:11,288 - INFO - *** Running cd-info ***
+2017-05-09 13:19:11,506 - INFO - cd-info command: C:\Users\jkn010\iromlab\tools\libcdio\win64\cd-info.exe -C I: --no-header --no-device-info --no-disc-mode --no-cddb --dvd
+2017-05-09 13:19:11,506 - INFO - cd-info-status: 0
+2017-05-09 13:19:11,522 - INFO - cdExtra: False
+2017-05-09 13:19:11,522 - INFO - containsAudio: False
+2017-05-09 13:19:11,522 - INFO - containsData: True
+2017-05-09 13:19:11,522 - INFO - mixedMode: False
+2017-05-09 13:19:11,522 - INFO - multiSession: False
+2017-05-09 13:19:11,522 - INFO - *** Extract data session to ISO ***
+2017-05-09 13:19:58,338 - INFO - isobuster command: C:\Program Files (x86)\Smart Projects\IsoBuster\IsoBuster.exe /d:I: /ei:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\61c3e58a-34a6-11e7-98d9-7446a0b42b9a\disc.iso /et:u /ep:oea /ep:npc /c /m /nosplash /s:1 /l:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\61c3e58a-34a6-11e7-98d9-7446a0b42b9a\isobuster.log
+2017-05-09 13:19:58,338 - INFO - isobuster-status: 0
+2017-05-09 13:19:58,338 - INFO - isobuster-log: 0
+2017-05-09 13:19:58,338 - INFO - volumeIdentifier: SPELEN_MET_KIKKER
+2017-05-09 13:19:58,338 - INFO - isolyzerSuccess: True
+2017-05-09 13:19:58,338 - INFO - imageTruncated: False
+2017-05-09 13:19:58,738 - INFO - *** Unloading disc ***
+2017-05-09 13:20:15,999 - INFO - unload command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Unload\Unload.exe --drive=I --logfile=C:\Temp\Q2skUFNFU2Sg.log --passerrorsback=C:\Temp\iGcVy6kc3Ui6.err
+2017-05-09 13:20:16,014 - INFO - unload command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 13:20:18,027 - INFO - ### Job identifier: 7f68501c-34a6-11e7-8ee3-7446a0b42b9a
+2017-05-09 13:20:18,027 - INFO - PPN: 216562856
+2017-05-09 13:20:18,027 - INFO - Title: Leesleeuw. Leesleeuw cd-rom : voor iedere lezer een spel op maatbijdragen: Koos Meinderts ... [et al.][verder] werkten mee: Annemie Berebrouckx: beeldmateriaalMatthieu van Diepen, Martijn Kuilema (Dsens): productieDsens ... [et al.]: programmering
+2017-05-09 13:20:18,042 - INFO - Volume number: 1
+2017-05-09 13:20:18,042 - INFO - disc directory: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a
+2017-05-09 13:20:18,042 - INFO - *** Loading disc ***
+2017-05-09 13:20:41,101 - INFO - load command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Load\Load.exe --drive=I --rejectifnodisc --logfile=C:\Temp\PHtNNuz1bWnA.log --passerrorsback=C:\Temp\B4zEXbg54lte.err
+2017-05-09 13:20:41,101 - INFO - load command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 13:20:59,114 - INFO - *** Running cd-info ***
+2017-05-09 13:20:59,305 - INFO - cd-info command: C:\Users\jkn010\iromlab\tools\libcdio\win64\cd-info.exe -C I: --no-header --no-device-info --no-disc-mode --no-cddb --dvd
+2017-05-09 13:20:59,305 - INFO - cd-info-status: 0
+2017-05-09 13:20:59,306 - INFO - cdExtra: True
+2017-05-09 13:20:59,310 - INFO - containsAudio: True
+2017-05-09 13:20:59,314 - INFO - containsData: True
+2017-05-09 13:20:59,317 - INFO - mixedMode: False
+2017-05-09 13:20:59,320 - INFO - multiSession: True
+2017-05-09 13:20:59,322 - INFO - *** Ripping audio ***
+2017-05-09 13:21:54,414 - INFO - dBpoweramp command: C:\Program Files\dBpoweramp\kb-nl-consolerip.exe --drive=I --log=C:\Temp\SmmZnb0VkNgh.log --path=H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a
+2017-05-09 13:21:54,414 - INFO - dBpoweramp-status: 0
+2017-05-09 13:21:54,415 - INFO - dBpoweramp log:
+Track 1: AccurateRip: Not in database   Secure: Yes   [FE22F802]
+Track 2: AccurateRip: Not in database   Secure: Yes   [5402DC56]
+
+2017-05-09 13:21:54,416 - INFO - *** Verifying audio ***
+2017-05-09 13:21:54,785 - INFO - audioHasErrors: False
+2017-05-09 13:21:54,786 - INFO - Output of audio verification:
+2017-05-09 13:21:54,787 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a\01.flac
+2017-05-09 13:21:54,788 - INFO - File: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a\02.flac
+2017-05-09 13:21:54,789 - INFO - *** Extracting data session of cdExtra to ISO ***
+2017-05-09 13:24:11,206 - INFO - isobuster command: C:\Program Files (x86)\Smart Projects\IsoBuster\IsoBuster.exe /d:I: /ei:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a\disc.iso /et:u /ep:oea /ep:npc /c /m /nosplash /s:2 /l:H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a\isobuster.log
+2017-05-09 13:24:11,206 - INFO - isobuster-status: 0
+2017-05-09 13:24:11,207 - INFO - isobuster-log: 0
+2017-05-09 13:24:11,207 - INFO - volumeIdentifier: LEESLEEUW
+2017-05-09 13:24:11,207 - INFO - isolyzerSuccess: True
+2017-05-09 13:24:11,207 - INFO - imageTruncated: False
+2017-05-09 13:24:12,698 - INFO - *** Unloading disc ***
+2017-05-09 13:24:30,092 - INFO - unload command: C:\Program Files\dBpoweramp\BatchRipper\Loaders\Nimbie\Unload\Unload.exe --drive=I --logfile=C:\Temp\mUCgT2F1qyNE.log --passerrorsback=C:\Temp\7tAulXnZex36.err
+2017-05-09 13:24:30,092 - INFO - unload command output: Init Nimbie: Connecting to Nimbie: Close Nimbie: Closed
+2017-05-09 15:16:00,128 - INFO - *** End Of Batch job found, closing batch ***

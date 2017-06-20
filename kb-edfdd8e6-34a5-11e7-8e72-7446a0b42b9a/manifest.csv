@@ -1,0 +1,5 @@
+jobID,PPN,volumeNo,carrierType,title,volumeID,success,containsAudio,containsData,cdExtra
+27271fd8-34a6-11e7-9b3a-7446a0b42b9a,18594650X,1,cd-rom,Thea Beckman,ELL2,True,True,True,True
+383c78fa-34a6-11e7-926c-7446a0b42b9a,18594664X,1,cd-rom,Marjan Berk,ELL3,True,True,True,True
+61c3e58a-34a6-11e7-98d9-7446a0b42b9a,230370241,1,cd-rom,Kikker is verliefd,SPELEN_MET_KIKKER,True,False,True,False
+7f68501c-34a6-11e7-8ee3-7446a0b42b9a,216562856,1,cd-rom,"Leesleeuw. Leesleeuw cd-rom : voor iedere lezer een spel op maatbijdragen: Koos Meinderts ... [et al.][verder] werkten mee: Annemie Berebrouckx: beeldmateriaalMatthieu van Diepen, Martijn Kuilema (Dsens): productieDsens ... [et al.]: programmering",LEESLEEUW,True,True,True,True

@@ -1,0 +1,18 @@
+CD location   : I:
+CD driver name: WIN32
+   access mode: ioctl
+
+__________________________________
+
+CD-ROM Track List (1 - 3)
+  #: MSF       LSN    Type   Green? Copy?
+  1: 00:02:00  000000 audio  false  no    2        no
+  2: 01:25:24  006249 audio  false  no    2        no
+  3: 06:05:46  027271 data   false  no   
+170: 66:14:61  297961 leadout (668 MB raw, 581 MB formatted)
+__________________________________
+CD Analysis Report
+No CD-TEXT on Disc.
+CD-Plus/Extra   
+session #2 starts at track  3, LSN: 27271, ISO 9660 blocks: 297809
+ISO 9660: 297809 blocks, label `LEESLEEUW                       '

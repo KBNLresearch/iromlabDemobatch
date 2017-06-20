@@ -1,0 +1,76 @@
+dBpoweramp Release 16.2 Digital Audio Extraction Log from 09 May 2017 13:08
+
+Drive & Settings
+----------------
+
+Ripping with drive 'I:   [TEAC     - DV-W5600S       ]',  Drive offset: 48,  Overread Lead-in/out: No
+AccurateRip: Active,  Using C2: No,  Cache: 1024 KB,  FUA Cache Invalidate: No
+Pass 1 Drive Speed: Max,  Pass 2 Drive Speed: Max
+Ultra::  Vary Drive Speed: No,  Min Passes: 2,  Max Passes: 4,  Finish After Clean Passes: 2
+Bad Sector Re-rip::  Drive Speed: Max,  Maximum Re-reads: 34
+
+Encoder: FLAC -compression-level-5
+DSP Effects / Actions: -dspeffect1="ReplayGain= -r128lufs={qt}-18{qt}"
+
+Extraction Log
+--------------
+
+Track 1:  Ripped LBA 0 to 3302 (0:44) in 0:11. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\01._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 1E0158D2     AccurateRip CRC: 7B758C6F (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-1]
+
+Track 2:  Ripped LBA 3302 to 6079 (0:37) in 0:09. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\02._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 0BCFBB82     AccurateRip CRC: 730C46C5 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-2]
+
+Track 3:  Ripped LBA 6079 to 33756 (6:09) in 1:22. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\03._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 2EE33049     AccurateRip CRC: 5BBDC402 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-3]
+
+Track 4:  Ripped LBA 33756 to 48458 (3:16) in 0:39. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\04._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: FE52F4C3     AccurateRip CRC: 0AA6E2E9 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-4]
+
+Track 5:  Ripped LBA 48458 to 72910 (5:26) in 1:00. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\05._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: AD4C6C1B     AccurateRip CRC: B8F1B937 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-5]
+
+Track 6:  Ripped LBA 72910 to 123912 (11:20) in 1:51. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\06._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: D0A3975E     AccurateRip CRC: 8539A802 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-6]
+
+Track 7:  Ripped LBA 123912 to 134114 (2:16) in 0:20. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\07._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 00ACBEE6     AccurateRip CRC: 8B89CB7C (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-7]
+
+Track 8:  Ripped LBA 134114 to 142741 (1:55) in 0:17. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\08._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 22ECDEA9     AccurateRip CRC: 9ABFA597 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-8]
+
+Track 9:  Ripped LBA 142741 to 154218 (2:33) in 0:22. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\09._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 567E0422     AccurateRip CRC: 0F7C429E (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-9]
+
+Track 10:  Ripped LBA 154218 to 178595 (5:25) in 0:45. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\10._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 5D69DA05     AccurateRip CRC: CF053617 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-10]
+
+Track 11:  Ripped LBA 178595 to 192847 (3:10) in 0:25. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\11._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 54F08E40     AccurateRip CRC: D46CB0BE (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-11]
+
+Track 12:  Ripped LBA 192847 to 218274 (5:39) in 0:43. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\12._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 9EBAFE26     AccurateRip CRC: BF6D1467 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-12]
+
+Track 13:  Ripped LBA 218274 to 232226 (3:06) in 0:23. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\13._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 4C142676     AccurateRip CRC: 01635028 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-13]
+
+Track 14:  Ripped LBA 232226 to 275353 (9:35) in 1:08. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\383c78fa-34a6-11e7-926c-7446a0b42b9a\14._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 181AEC9E     AccurateRip CRC: 417D5A02 (CRCv2)     [DiscID: 014-001c45ef-013b09ed-dc10390f-14]
+
+--------------
+
+14 Tracks Ripped Securely

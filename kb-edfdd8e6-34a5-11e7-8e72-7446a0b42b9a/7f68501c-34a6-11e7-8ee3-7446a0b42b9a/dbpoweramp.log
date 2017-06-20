@@ -1,0 +1,28 @@
+dBpoweramp Release 16.2 Digital Audio Extraction Log from 09 May 2017 13:20
+
+Drive & Settings
+----------------
+
+Ripping with drive 'I:   [TEAC     - DV-W5600S       ]',  Drive offset: 48,  Overread Lead-in/out: No
+AccurateRip: Active,  Using C2: No,  Cache: 1024 KB,  FUA Cache Invalidate: No
+Pass 1 Drive Speed: Max,  Pass 2 Drive Speed: Max
+Ultra::  Vary Drive Speed: No,  Min Passes: 2,  Max Passes: 4,  Finish After Clean Passes: 2
+Bad Sector Re-rip::  Drive Speed: Max,  Maximum Re-reads: 34
+
+Encoder: FLAC -compression-level-5
+DSP Effects / Actions: -dspeffect1="ReplayGain= -r128lufs={qt}-18{qt}"
+
+Extraction Log
+--------------
+
+Track 1:  Ripped LBA 0 to 6249 (1:23) in 0:21. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a\01._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 2D5CFAF6     AccurateRip CRC: FE22F802 (CRCv2)     [DiscID: 002-0004a452-000dd48e-1d0f8403-1]
+
+Track 2:  Ripped LBA 6249 to 15871 (2:08) in 0:31. Filename: H:\iromlabTestKBDepotNew\kb-edfdd8e6-34a5-11e7-8e72-7446a0b42b9a\7f68501c-34a6-11e7-8ee3-7446a0b42b9a\02._
+  Secure  [Pass 1 & 2, Ultra 1 to 2]
+  CRC32: 70367845     AccurateRip CRC: 5402DC56 (CRCv2)     [DiscID: 002-0004a452-000dd48e-1d0f8403-2]
+
+--------------
+
+2 Tracks Ripped Securely

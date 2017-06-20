@@ -1,0 +1,36 @@
+CD location   : I:
+CD driver name: WIN32
+   access mode: ioctl
+
+__________________________________
+
+CD-ROM Track List (1 - 21)
+  #: MSF       LSN    Type   Green? Copy?
+  1: 00:02:00  000000 audio  false  no    2        no
+  2: 01:22:02  006002 audio  false  no    2        no
+  3: 02:31:04  011179 audio  false  no    2        no
+  4: 03:43:06  016581 audio  false  no    2        no
+  5: 06:44:08  030158 audio  false  no    2        no
+  6: 09:10:10  041110 audio  false  no    2        no
+  7: 12:45:12  057237 audio  false  no    2        no
+  8: 15:16:14  068564 audio  false  no    2        no
+  9: 16:15:16  072991 audio  false  no    2        no
+ 10: 21:57:18  098643 audio  false  no    2        no
+ 11: 25:37:20  115145 audio  false  no    2        no
+ 12: 31:42:22  142522 audio  false  no    2        no
+ 13: 36:01:24  161949 audio  false  no    2        no
+ 14: 40:45:26  183251 audio  false  no    2        no
+ 15: 43:52:28  197278 audio  false  no    2        no
+ 16: 44:57:30  202155 audio  false  no    2        no
+ 17: 47:26:32  213332 audio  false  no    2        no
+ 18: 48:27:34  217909 audio  false  no    2        no
+ 19: 54:33:36  245361 audio  false  no    2        no
+ 20: 55:23:38  249113 audio  false  no    2        no
+ 21: 59:41:40  268465 data   false  no   
+170: 63:08:25  283975 leadout (636 MB raw, 554 MB formatted)
+__________________________________
+CD Analysis Report
+No CD-TEXT on Disc.
+CD-Plus/Extra   
+session #2 starts at track 21, LSN: 268465, ISO 9660 blocks: 283825
+ISO 9660: 283825 blocks, label `ELL2                            '
